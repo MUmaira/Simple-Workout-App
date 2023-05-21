@@ -1,5 +1,5 @@
 # Simple-Workout-App
-This was a practice tutorial project which I did to learn MERN Stack. It was helpful to learn the basic CRUD operations using MERN Stack from this project.
+
 ## TECH STACK : Node JS, Express JS, React JS, Mongo DB, HTML, CSS, POSTMAN
 <br>
 **Credits goes to the owner of the project**
