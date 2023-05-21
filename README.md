@@ -12,18 +12,18 @@ The project contains,
 <br>
 2.Database connection using Mongo DB
 <br>
-<ol>
 3.CRUD Operations from the backend using Express
+    <ul>
     <li>Creating a workout </li>
     <li>Getting All Workout Details </li>
     <li> Updating a Workout </li>
     <li> Deleting a Workout </li>
- </ol>
+ </ul>
  4.Creating a react-app in the frontend.
  <br>
- <ol>
  5.CRUD Operations from the frontend using react
+    <ul>
     <li>Adding a workout </li>
     <li>Displaying All Workout Details </li>
      <li> Deleting a Workout </li>
- </ol>
+ </ul>
