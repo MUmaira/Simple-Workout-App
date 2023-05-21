@@ -19,7 +19,7 @@ The project contains,
     <li> Updating a Workout </li>
     <li> Deleting a Workout </li>
  </ul>
- <br><br>
+ <br>
  4.Creating a react-app in the frontend.
  <br><br>
  5.CRUD Operations from the frontend using react
